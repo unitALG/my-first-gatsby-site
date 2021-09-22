@@ -15,8 +15,15 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.13.1",
+    "browserslist": "^4.17.1",
+    "gatsby": "^3.14.0",
+    "gatsby-plugin-image": "^1.14.0",
+    "gatsby-plugin-sharp": "^3.14.0",
+    "gatsby-source-filesystem": "^3.14.0",
+    "glob-parent": "^6.0.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "trim": "^1.0.1",
+    "ws": "^8.2.2"
   }
 }
